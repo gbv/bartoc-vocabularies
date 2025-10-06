@@ -1,4 +1,3 @@
-BARTOC=https://bartoc.org/en/node/20002
 include ../Makefile
 
 $(CONCEPTS): bartoc-api-types-concepts.csv $(SCHEME)

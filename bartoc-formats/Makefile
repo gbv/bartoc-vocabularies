@@ -1,4 +1,3 @@
-BARTOC=https://bartoc.org/en/node/20000
 include ../Makefile
 
 $(CONCEPTS): bartoc-formats-concepts.csv $(SCHEME)

@@ -1,4 +1,4 @@
-BARTOC=https://bartoc.org/en/node/1665
+BARTOC=http://bartoc.org/en/node/1665
 include ../Makefile
 
 $(CONCEPTS):

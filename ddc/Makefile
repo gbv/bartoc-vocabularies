@@ -1,4 +1,3 @@
-BARTOC=https://bartoc.org/en/node/241
 include ../Makefile
 
 $(CONCEPTS): ddc-concepts.csv $(SCHEME)
