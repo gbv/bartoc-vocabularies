@@ -24,4 +24,8 @@ The concepts file can be updated with a `Makefile` from a CSV file or from an ex
 
     make -BC $ID
 
-The skript `import.sh` takes a JSKOS-API endpoint URL such as `http://localhost:3000/` or `https://bartoc.org/api/` as first argument. It adds this URL to the `API` field of the vocabulary and imports the vocabulary and its concepts. Existing schemes and concepts will be overwritten!
+The skript `import.sh` takes a JSKOS-API endpoint URL such as `http://localhost:3000/` or `https://bartoc.org/api/` as first argument. It adds this URL to the `API` field of the vocabulary and imports the vocabulary and its concepts.
+
+Environment variable `JWT` can optionally be set to provide a JWT Token for authentification.
+
+Existing schemes and concepts will be overwritten!
