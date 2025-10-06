@@ -1,7 +1,5 @@
 # KOS Types Vocabulary
 
-More information about the vocabulary can be found in BARTOC under https://bartoc.org/en/node/1665.
+This vocabulary (https://bartoc.org/en/node/1665) contains types of knowledge organization systems.
 
-## Download using the Makefile
-
-Running the <code>Makefile</code> will download the vocabulary data from [DANTE](https://api.dante.gbv.de/).
+Running <code>make</code> from this directory will download the vocabulary data from [DANTE](https://api.dante.gbv.de/).

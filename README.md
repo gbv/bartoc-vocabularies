@@ -6,6 +6,8 @@ This repository contains auxiliary vocabularies used in [BARTOC](https://bartoc.
 - [BARTOC vocabulary API types](bartoc-api-types)
 - [BARTOC data formats](bartoc-formats)
 - [Dewey Decimal Classification](ddc), limited to the first three levels
+- [ISO Language Codes (639-1 and 693-2) and IETF Language Types](languages)
+- [KOS Types Vocabulary](nkostype)
 
 ## Requirements
 
