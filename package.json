@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "jskos-convert": "cd $INIT_CWD; jskos-convert",
+    "jskos-validate": "cd $INIT_CWD; jskos-validate"
+  },
+  "dependencies": {
+    "jskos-cli": "^0.7.3",
+    "jskos-validate": "^1.1.0"
+  }
+}
