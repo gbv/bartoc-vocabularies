@@ -28,4 +28,4 @@ The skript `import.sh` takes a JSKOS-API endpoint URL such as `http://localhost:
 
 Environment variable `JWT` can optionally be set to provide a JWT Token for authentification.
 
-Existing schemes and concepts will be overwritten!
+Existing schemes and concepts will be overwritten but no concepts will be deleted.

@@ -26,7 +26,6 @@ import() {
     echo "$scheme"
     uri=$(jq -r .uri $scheme)
     existing=$(curl "${curl_headers[@]}" "${API}voc?uri=$uri" | jq .[])
-    # TODO: keep existing API, just add first element!
     json=$(jq --arg API "$API" '.API += [{"url":$API, "type":"http://bartoc.org/api-type/jskos"}]' "$scheme")
     if [ -z "$existing" ]; then
         echo "$json" | curl "${curl_headers[@]}" --json @- "${API}voc" | jq -r .uri
@@ -34,8 +33,6 @@ import() {
         echo "$json" | curl "${curl_headers[@]}" -X PUT --json @- "${API}voc?uri=$uri" | jq -r .uri
     fi
 
-    # TODO: ggf. vorher alle löschen?
-    # curl "${curl_headers[@]}" "${API}concepts?voc=$uri&properties=uri&limit=100" | jq -r .[].uri
     echo 
     echo "$concepts"
     curl "${curl_headers[@]}" -H 'Content-Type: application/x-ndjson' --data-binary "@${concepts}" "${API}concepts?bulk=1&type=ndjson" | jq -r .[].uri 
