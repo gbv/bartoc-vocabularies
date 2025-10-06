@@ -1,3 +1,9 @@
 # BARTOC access modes
 
-More information about the vocabulary can be found in BARTOC under https://bartoc.org/en/node/20001.
+This vocabulary (<http://bartoc.org/en/node/20001>) lists access modes of knowledge organization system listed in BARTOC.org:
+
+- free (the vocabulary is freely available)
+- registered (access requires registration)
+- licensed (access requires a personalized license)
+
+To update the vocabulary, edit the CSV file and run `make` from this directory.
