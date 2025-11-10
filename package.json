@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "scripts": {
     "jskos-convert": "cd $INIT_CWD; jskos-convert",
     "jskos-validate": "cd $INIT_CWD; jskos-validate"

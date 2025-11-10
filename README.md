@@ -5,7 +5,7 @@ This repository contains auxiliary vocabularies used in [BARTOC](https://bartoc.
 - [BARTOC access modes](bartoc-access)
 - [BARTOC vocabulary API types](bartoc-api-types)
 - [BARTOC data formats](bartoc-formats)
-- [Dewey Decimal Classification](ddc), limited to the first three levels
+- [Dewey Decimal Classification](ddc) reduced to the first three digits, including table numbers and English labels
 - [ISO Language Codes (639-1 and 693-2) and IETF Language Types](languages)
 - [KOS Types Vocabulary](nkostype)
 
@@ -26,6 +26,6 @@ The concepts file can be updated with a `Makefile` from a CSV file or from an ex
 
 The skript `import.sh` takes a JSKOS-API endpoint URL such as `http://localhost:3000/` or `https://bartoc.org/api/` as first argument. It adds this URL to the `API` field of the vocabulary and imports the vocabulary and its concepts.
 
-Environment variable `JWT` can optionally be set to provide a JWT Token for authentification.
+Environment variable `JWT` can optionally be set to provide a JWT Token for authentification for import.
 
 Existing schemes and concepts will be overwritten but no concepts will be deleted.

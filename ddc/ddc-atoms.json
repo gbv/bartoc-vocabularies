@@ -1,0 +1,1885 @@
+{
+  "http://dewey.info/class/101/e23/": [
+    {
+      "uri": "http://dewey.info/class/1/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--01/e23/"
+    }
+  ],
+  "http://dewey.info/class/102/e23/": [
+    {
+      "uri": "http://dewey.info/class/1/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--02/e23/"
+    }
+  ],
+  "http://dewey.info/class/106/e23/": [
+    {
+      "uri": "http://dewey.info/class/1/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--06/e23/"
+    }
+  ],
+  "http://dewey.info/class/107/e23/": [
+    {
+      "uri": "http://dewey.info/class/1/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--07/e23/"
+    }
+  ],
+  "http://dewey.info/class/108/e23/": [
+    {
+      "uri": "http://dewey.info/class/1/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--08/e23/"
+    }
+  ],
+  "http://dewey.info/class/109/e23/": [
+    {
+      "uri": "http://dewey.info/class/1/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--09/e23/"
+    }
+  ],
+  "http://dewey.info/class/274/e23/": [
+    {
+      "uri": "http://dewey.info/class/27/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/275/e23/": [
+    {
+      "uri": "http://dewey.info/class/27/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/276/e23/": [
+    {
+      "uri": "http://dewey.info/class/27/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/277/e23/": [
+    {
+      "uri": "http://dewey.info/class/27/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/278/e23/": [
+    {
+      "uri": "http://dewey.info/class/27/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/279/e23/": [
+    {
+      "uri": "http://dewey.info/class/27/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--9/e23/"
+    }
+  ],
+  "http://dewey.info/class/314/e23/": [
+    {
+      "uri": "http://dewey.info/class/31/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/315/e23/": [
+    {
+      "uri": "http://dewey.info/class/31/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/316/e23/": [
+    {
+      "uri": "http://dewey.info/class/31/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/317/e23/": [
+    {
+      "uri": "http://dewey.info/class/31/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/318/e23/": [
+    {
+      "uri": "http://dewey.info/class/31/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/319/e23/": [
+    {
+      "uri": "http://dewey.info/class/31/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--9/e23/"
+    }
+  ],
+  "http://dewey.info/class/401/e23/": [
+    {
+      "uri": "http://dewey.info/class/4/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--01/e23/"
+    }
+  ],
+  "http://dewey.info/class/402/e23/": [
+    {
+      "uri": "http://dewey.info/class/4/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--02/e23/"
+    }
+  ],
+  "http://dewey.info/class/406/e23/": [
+    {
+      "uri": "http://dewey.info/class/4/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--06/e23/"
+    }
+  ],
+  "http://dewey.info/class/407/e23/": [
+    {
+      "uri": "http://dewey.info/class/4/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--07/e23/"
+    }
+  ],
+  "http://dewey.info/class/408/e23/": [
+    {
+      "uri": "http://dewey.info/class/4/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--08/e23/"
+    }
+  ],
+  "http://dewey.info/class/409/e23/": [
+    {
+      "uri": "http://dewey.info/class/4/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--09/e23/"
+    }
+  ],
+  "http://dewey.info/class/421/e23/": [
+    {
+      "uri": "http://dewey.info/class/42/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/422/e23/": [
+    {
+      "uri": "http://dewey.info/class/42/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/423/e23/": [
+    {
+      "uri": "http://dewey.info/class/42/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/425/e23/": [
+    {
+      "uri": "http://dewey.info/class/42/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/427/e23/": [
+    {
+      "uri": "http://dewey.info/class/42/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/428/e23/": [
+    {
+      "uri": "http://dewey.info/class/42/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/431/e23/": [
+    {
+      "uri": "http://dewey.info/class/43/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/432/e23/": [
+    {
+      "uri": "http://dewey.info/class/43/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/433/e23/": [
+    {
+      "uri": "http://dewey.info/class/43/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/435/e23/": [
+    {
+      "uri": "http://dewey.info/class/43/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/437/e23/": [
+    {
+      "uri": "http://dewey.info/class/43/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/438/e23/": [
+    {
+      "uri": "http://dewey.info/class/43/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/441/e23/": [
+    {
+      "uri": "http://dewey.info/class/44/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/442/e23/": [
+    {
+      "uri": "http://dewey.info/class/44/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/443/e23/": [
+    {
+      "uri": "http://dewey.info/class/44/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/445/e23/": [
+    {
+      "uri": "http://dewey.info/class/44/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/447/e23/": [
+    {
+      "uri": "http://dewey.info/class/44/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/448/e23/": [
+    {
+      "uri": "http://dewey.info/class/44/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/451/e23/": [
+    {
+      "uri": "http://dewey.info/class/45/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/452/e23/": [
+    {
+      "uri": "http://dewey.info/class/45/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/453/e23/": [
+    {
+      "uri": "http://dewey.info/class/45/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/455/e23/": [
+    {
+      "uri": "http://dewey.info/class/45/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/457/e23/": [
+    {
+      "uri": "http://dewey.info/class/45/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/458/e23/": [
+    {
+      "uri": "http://dewey.info/class/45/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/461/e23/": [
+    {
+      "uri": "http://dewey.info/class/46/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/462/e23/": [
+    {
+      "uri": "http://dewey.info/class/46/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/463/e23/": [
+    {
+      "uri": "http://dewey.info/class/46/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/465/e23/": [
+    {
+      "uri": "http://dewey.info/class/46/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/467/e23/": [
+    {
+      "uri": "http://dewey.info/class/46/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/468/e23/": [
+    {
+      "uri": "http://dewey.info/class/46/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/471/e23/": [
+    {
+      "uri": "http://dewey.info/class/47/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/472/e23/": [
+    {
+      "uri": "http://dewey.info/class/47/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/473/e23/": [
+    {
+      "uri": "http://dewey.info/class/47/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/475/e23/": [
+    {
+      "uri": "http://dewey.info/class/47/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/477/e23/": [
+    {
+      "uri": "http://dewey.info/class/47/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/478/e23/": [
+    {
+      "uri": "http://dewey.info/class/47/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/481/e23/": [
+    {
+      "uri": "http://dewey.info/class/48/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/482/e23/": [
+    {
+      "uri": "http://dewey.info/class/48/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/483/e23/": [
+    {
+      "uri": "http://dewey.info/class/48/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/485/e23/": [
+    {
+      "uri": "http://dewey.info/class/48/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/487/e23/": [
+    {
+      "uri": "http://dewey.info/class/48/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/488/e23/": [
+    {
+      "uri": "http://dewey.info/class/48/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/4--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/501/e23/": [
+    {
+      "uri": "http://dewey.info/class/5/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--01/e23/"
+    }
+  ],
+  "http://dewey.info/class/502/e23/": [
+    {
+      "uri": "http://dewey.info/class/5/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--02/e23/"
+    }
+  ],
+  "http://dewey.info/class/506/e23/": [
+    {
+      "uri": "http://dewey.info/class/5/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--06/e23/"
+    }
+  ],
+  "http://dewey.info/class/507/e23/": [
+    {
+      "uri": "http://dewey.info/class/5/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--07/e23/"
+    }
+  ],
+  "http://dewey.info/class/509/e23/": [
+    {
+      "uri": "http://dewey.info/class/5/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--09/e23/"
+    }
+  ],
+  "http://dewey.info/class/554/e23/": [
+    {
+      "uri": "http://dewey.info/class/55/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/555/e23/": [
+    {
+      "uri": "http://dewey.info/class/55/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/556/e23/": [
+    {
+      "uri": "http://dewey.info/class/55/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/557/e23/": [
+    {
+      "uri": "http://dewey.info/class/55/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/558/e23/": [
+    {
+      "uri": "http://dewey.info/class/55/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/559/e23/": [
+    {
+      "uri": "http://dewey.info/class/55/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--9/e23/"
+    }
+  ],
+  "http://dewey.info/class/601/e23/": [
+    {
+      "uri": "http://dewey.info/class/6/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--01/e23/"
+    }
+  ],
+  "http://dewey.info/class/602/e23/": [
+    {
+      "uri": "http://dewey.info/class/6/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--02/e23/"
+    }
+  ],
+  "http://dewey.info/class/606/e23/": [
+    {
+      "uri": "http://dewey.info/class/6/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--06/e23/"
+    }
+  ],
+  "http://dewey.info/class/607/e23/": [
+    {
+      "uri": "http://dewey.info/class/6/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--07/e23/"
+    }
+  ],
+  "http://dewey.info/class/609/e23/": [
+    {
+      "uri": "http://dewey.info/class/6/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--09/e23/"
+    }
+  ],
+  "http://dewey.info/class/701/e23/": [
+    {
+      "uri": "http://dewey.info/class/7/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--01/e23/"
+    }
+  ],
+  "http://dewey.info/class/702/e23/": [
+    {
+      "uri": "http://dewey.info/class/7/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--02/e23/"
+    }
+  ],
+  "http://dewey.info/class/703/e23/": [
+    {
+      "uri": "http://dewey.info/class/7/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--03/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/6--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/706/e23/": [
+    {
+      "uri": "http://dewey.info/class/7/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--06/e23/"
+    }
+  ],
+  "http://dewey.info/class/707/e23/": [
+    {
+      "uri": "http://dewey.info/class/7/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--07/e23/"
+    }
+  ],
+  "http://dewey.info/class/709/e23/": [
+    {
+      "uri": "http://dewey.info/class/7/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--09/e23/"
+    }
+  ],
+  "http://dewey.info/class/801/e23/": [
+    {
+      "uri": "http://dewey.info/class/8/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--01/e23/"
+    }
+  ],
+  "http://dewey.info/class/802/e23/": [
+    {
+      "uri": "http://dewey.info/class/8/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--02/e23/"
+    }
+  ],
+  "http://dewey.info/class/806/e23/": [
+    {
+      "uri": "http://dewey.info/class/8/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--06/e23/"
+    }
+  ],
+  "http://dewey.info/class/807/e23/": [
+    {
+      "uri": "http://dewey.info/class/8/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--07/e23/"
+    }
+  ],
+  "http://dewey.info/class/809/e23/": [
+    {
+      "uri": "http://dewey.info/class/8/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--09/e23/"
+    }
+  ],
+  "http://dewey.info/class/811/e23/": [
+    {
+      "uri": "http://dewey.info/class/81/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/812/e23/": [
+    {
+      "uri": "http://dewey.info/class/81/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/813/e23/": [
+    {
+      "uri": "http://dewey.info/class/81/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/814/e23/": [
+    {
+      "uri": "http://dewey.info/class/81/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/815/e23/": [
+    {
+      "uri": "http://dewey.info/class/81/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/816/e23/": [
+    {
+      "uri": "http://dewey.info/class/81/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/817/e23/": [
+    {
+      "uri": "http://dewey.info/class/81/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/818/e23/": [
+    {
+      "uri": "http://dewey.info/class/81/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/821/e23/": [
+    {
+      "uri": "http://dewey.info/class/82/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/822/e23/": [
+    {
+      "uri": "http://dewey.info/class/82/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/823/e23/": [
+    {
+      "uri": "http://dewey.info/class/82/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/824/e23/": [
+    {
+      "uri": "http://dewey.info/class/82/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/825/e23/": [
+    {
+      "uri": "http://dewey.info/class/82/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/826/e23/": [
+    {
+      "uri": "http://dewey.info/class/82/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/827/e23/": [
+    {
+      "uri": "http://dewey.info/class/82/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/828/e23/": [
+    {
+      "uri": "http://dewey.info/class/82/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/831/e23/": [
+    {
+      "uri": "http://dewey.info/class/83/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/832/e23/": [
+    {
+      "uri": "http://dewey.info/class/83/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/833/e23/": [
+    {
+      "uri": "http://dewey.info/class/83/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/834/e23/": [
+    {
+      "uri": "http://dewey.info/class/83/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/835/e23/": [
+    {
+      "uri": "http://dewey.info/class/83/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/836/e23/": [
+    {
+      "uri": "http://dewey.info/class/83/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/837/e23/": [
+    {
+      "uri": "http://dewey.info/class/83/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/838/e23/": [
+    {
+      "uri": "http://dewey.info/class/83/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/841/e23/": [
+    {
+      "uri": "http://dewey.info/class/84/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/842/e23/": [
+    {
+      "uri": "http://dewey.info/class/84/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/843/e23/": [
+    {
+      "uri": "http://dewey.info/class/84/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/844/e23/": [
+    {
+      "uri": "http://dewey.info/class/84/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/845/e23/": [
+    {
+      "uri": "http://dewey.info/class/84/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/846/e23/": [
+    {
+      "uri": "http://dewey.info/class/84/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/847/e23/": [
+    {
+      "uri": "http://dewey.info/class/84/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/848/e23/": [
+    {
+      "uri": "http://dewey.info/class/84/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/851/e23/": [
+    {
+      "uri": "http://dewey.info/class/85/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/852/e23/": [
+    {
+      "uri": "http://dewey.info/class/85/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/853/e23/": [
+    {
+      "uri": "http://dewey.info/class/85/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/854/e23/": [
+    {
+      "uri": "http://dewey.info/class/85/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/855/e23/": [
+    {
+      "uri": "http://dewey.info/class/85/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/856/e23/": [
+    {
+      "uri": "http://dewey.info/class/85/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/857/e23/": [
+    {
+      "uri": "http://dewey.info/class/85/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/858/e23/": [
+    {
+      "uri": "http://dewey.info/class/85/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/861/e23/": [
+    {
+      "uri": "http://dewey.info/class/86/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/862/e23/": [
+    {
+      "uri": "http://dewey.info/class/86/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/863/e23/": [
+    {
+      "uri": "http://dewey.info/class/86/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/864/e23/": [
+    {
+      "uri": "http://dewey.info/class/86/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/865/e23/": [
+    {
+      "uri": "http://dewey.info/class/86/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/866/e23/": [
+    {
+      "uri": "http://dewey.info/class/86/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/867/e23/": [
+    {
+      "uri": "http://dewey.info/class/86/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/868/e23/": [
+    {
+      "uri": "http://dewey.info/class/86/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/871/e23/": [
+    {
+      "uri": "http://dewey.info/class/87/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/872/e23/": [
+    {
+      "uri": "http://dewey.info/class/87/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/873/e23/": [
+    {
+      "uri": "http://dewey.info/class/87/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/875/e23/": [
+    {
+      "uri": "http://dewey.info/class/87/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/876/e23/": [
+    {
+      "uri": "http://dewey.info/class/87/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/877/e23/": [
+    {
+      "uri": "http://dewey.info/class/87/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/878/e23/": [
+    {
+      "uri": "http://dewey.info/class/87/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/881/e23/": [
+    {
+      "uri": "http://dewey.info/class/88/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--1/e23/"
+    }
+  ],
+  "http://dewey.info/class/882/e23/": [
+    {
+      "uri": "http://dewey.info/class/88/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--2/e23/"
+    }
+  ],
+  "http://dewey.info/class/883/e23/": [
+    {
+      "uri": "http://dewey.info/class/88/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/885/e23/": [
+    {
+      "uri": "http://dewey.info/class/88/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/886/e23/": [
+    {
+      "uri": "http://dewey.info/class/88/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/887/e23/": [
+    {
+      "uri": "http://dewey.info/class/88/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/888/e23/": [
+    {
+      "uri": "http://dewey.info/class/88/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/3B--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/901/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--01/e23/"
+    }
+  ],
+  "http://dewey.info/class/902/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--02/e23/"
+    }
+  ],
+  "http://dewey.info/class/906/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--06/e23/"
+    }
+  ],
+  "http://dewey.info/class/907/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--07/e23/"
+    }
+  ],
+  "http://dewey.info/class/908/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/1--08/e23/"
+    }
+  ],
+  "http://dewey.info/class/913/e23/": [
+    {
+      "uri": "http://dewey.info/class/91/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/914/e23/": [
+    {
+      "uri": "http://dewey.info/class/91/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/915/e23/": [
+    {
+      "uri": "http://dewey.info/class/91/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/916/e23/": [
+    {
+      "uri": "http://dewey.info/class/91/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/917/e23/": [
+    {
+      "uri": "http://dewey.info/class/91/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/918/e23/": [
+    {
+      "uri": "http://dewey.info/class/91/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/919/e23/": [
+    {
+      "uri": "http://dewey.info/class/91/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--9/e23/"
+    }
+  ],
+  "http://dewey.info/class/930/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--3/e23/"
+    }
+  ],
+  "http://dewey.info/class/931/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--31/e23/"
+    }
+  ],
+  "http://dewey.info/class/932/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--32/e23/"
+    }
+  ],
+  "http://dewey.info/class/933/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--33/e23/"
+    }
+  ],
+  "http://dewey.info/class/934/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--34/e23/"
+    }
+  ],
+  "http://dewey.info/class/935/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--35/e23/"
+    }
+  ],
+  "http://dewey.info/class/936/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--36/e23/"
+    }
+  ],
+  "http://dewey.info/class/937/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--37/e23/"
+    }
+  ],
+  "http://dewey.info/class/938/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--38/e23/"
+    }
+  ],
+  "http://dewey.info/class/939/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--39/e23/"
+    }
+  ],
+  "http://dewey.info/class/940/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--4/e23/"
+    }
+  ],
+  "http://dewey.info/class/941/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--41/e23/"
+    }
+  ],
+  "http://dewey.info/class/942/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--42/e23/"
+    }
+  ],
+  "http://dewey.info/class/943/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--43/e23/"
+    }
+  ],
+  "http://dewey.info/class/944/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--44/e23/"
+    }
+  ],
+  "http://dewey.info/class/945/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--45/e23/"
+    }
+  ],
+  "http://dewey.info/class/946/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--46/e23/"
+    }
+  ],
+  "http://dewey.info/class/947/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--47/e23/"
+    }
+  ],
+  "http://dewey.info/class/948/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--48/e23/"
+    }
+  ],
+  "http://dewey.info/class/949/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--49/e23/"
+    }
+  ],
+  "http://dewey.info/class/950/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--5/e23/"
+    }
+  ],
+  "http://dewey.info/class/951/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--51/e23/"
+    }
+  ],
+  "http://dewey.info/class/952/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--52/e23/"
+    }
+  ],
+  "http://dewey.info/class/953/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--53/e23/"
+    }
+  ],
+  "http://dewey.info/class/954/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--54/e23/"
+    }
+  ],
+  "http://dewey.info/class/955/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--55/e23/"
+    }
+  ],
+  "http://dewey.info/class/956/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--56/e23/"
+    }
+  ],
+  "http://dewey.info/class/957/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--57/e23/"
+    }
+  ],
+  "http://dewey.info/class/958/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--58/e23/"
+    }
+  ],
+  "http://dewey.info/class/959/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--59/e23/"
+    }
+  ],
+  "http://dewey.info/class/960/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--6/e23/"
+    }
+  ],
+  "http://dewey.info/class/961/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--61/e23/"
+    }
+  ],
+  "http://dewey.info/class/962/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--62/e23/"
+    }
+  ],
+  "http://dewey.info/class/963/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--63/e23/"
+    }
+  ],
+  "http://dewey.info/class/964/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--64/e23/"
+    }
+  ],
+  "http://dewey.info/class/965/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--65/e23/"
+    }
+  ],
+  "http://dewey.info/class/966/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--66/e23/"
+    }
+  ],
+  "http://dewey.info/class/967/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--67/e23/"
+    }
+  ],
+  "http://dewey.info/class/968/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--68/e23/"
+    }
+  ],
+  "http://dewey.info/class/969/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--69/e23/"
+    }
+  ],
+  "http://dewey.info/class/970/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--7/e23/"
+    }
+  ],
+  "http://dewey.info/class/971/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--71/e23/"
+    }
+  ],
+  "http://dewey.info/class/972/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--72/e23/"
+    }
+  ],
+  "http://dewey.info/class/973/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--73/e23/"
+    }
+  ],
+  "http://dewey.info/class/974/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--74/e23/"
+    }
+  ],
+  "http://dewey.info/class/975/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--75/e23/"
+    }
+  ],
+  "http://dewey.info/class/976/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--76/e23/"
+    }
+  ],
+  "http://dewey.info/class/977/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--77/e23/"
+    }
+  ],
+  "http://dewey.info/class/978/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--78/e23/"
+    }
+  ],
+  "http://dewey.info/class/979/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--79/e23/"
+    }
+  ],
+  "http://dewey.info/class/980/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--8/e23/"
+    }
+  ],
+  "http://dewey.info/class/981/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--81/e23/"
+    }
+  ],
+  "http://dewey.info/class/982/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--82/e23/"
+    }
+  ],
+  "http://dewey.info/class/983/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--83/e23/"
+    }
+  ],
+  "http://dewey.info/class/984/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--84/e23/"
+    }
+  ],
+  "http://dewey.info/class/985/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--85/e23/"
+    }
+  ],
+  "http://dewey.info/class/986/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--86/e23/"
+    }
+  ],
+  "http://dewey.info/class/987/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--87/e23/"
+    }
+  ],
+  "http://dewey.info/class/988/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--88/e23/"
+    }
+  ],
+  "http://dewey.info/class/989/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--89/e23/"
+    }
+  ],
+  "http://dewey.info/class/990/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--9/e23/"
+    }
+  ],
+  "http://dewey.info/class/993/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--93/e23/"
+    }
+  ],
+  "http://dewey.info/class/994/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--94/e23/"
+    }
+  ],
+  "http://dewey.info/class/995/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--95/e23/"
+    }
+  ],
+  "http://dewey.info/class/996/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--96/e23/"
+    }
+  ],
+  "http://dewey.info/class/997/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--97/e23/"
+    }
+  ],
+  "http://dewey.info/class/998/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--98/e23/"
+    }
+  ],
+  "http://dewey.info/class/999/e23/": [
+    {
+      "uri": "http://dewey.info/class/9/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/2--99/e23/"
+    }
+  ]
+}
