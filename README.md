@@ -1,3 +1,5 @@
+[![Build and publish Docker image](https://github.com/gbv/bartoc-vocabularies/actions/workflows/docker.yml/badge.svg)](https://github.com/gbv/bartoc-vocabularies/actions/workflows/docker.yml)
+
 # BARTOC Vocabularies
 
 This repository contains auxiliary vocabularies used in [BARTOC](https://bartoc.org/) encoded in [JSKOS data format](https://gbv.github.io/jskos/), and scripts to update and import these vocabularies:
