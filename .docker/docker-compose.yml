@@ -1,0 +1,8 @@
+services:
+  bartoc-vocabularies:
+    build:
+      context: ..
+      dockerfile: .docker/Dockerfile
+    volumes:
+      - ./data:/bartoc-vocabularies
+    restart: no
