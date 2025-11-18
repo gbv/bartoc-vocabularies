@@ -1,25 +1,36 @@
-# .docker/Dockerfile (in bartoc-vocabularies)
-FROM node:22-bookworm-slim
+FROM ubuntu:22.04
+WORKDIR /usr/src/app
 
-SHELL ["/bin/bash", "-o", "pipefail", "-c"]
-
-RUN apt-get update \
-  && apt-get install -y --no-install-recommends \
-       bash \
-       curl \
-       jq \
-       make \
-       ca-certificates \
+# ---------- Base tools ----------
+RUN apt update && apt install -y \
+  curl \
+  wget \
+  bash \
+  git \
+  make \
+  jq \
+  ca-certificates \
   && rm -rf /var/lib/apt/lists/*
 
-WORKDIR /app
+# ---------- Node.js via NodeSource ----------
+RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash && \
+    apt install -y nodejs && \
+    rm -rf /var/lib/apt/lists/*
 
-# Install Node deps (jskos-cli etc.)
-COPY package.json package-lock.json ./
-RUN npm ci --omit=dev
+# ---------- Deno ----------
+RUN apt update && apt install -y unzip && rm -rf /var/lib/apt/lists/* && \
+    curl -fsSL https://deno.land/install.sh | sh && \
+    ln -s /root/.deno/bin/deno /usr/bin/deno
 
-# Copy the rest (Makefile, import.sh, vocab dirs…)
-COPY . .
+# ---------- Copy script Docker-related ----------
+COPY .docker/*.sh .
+COPY .docker/*.ts .
 
-# Default: interactive shell (useful locally; overridden in CI / on server)
-CMD ["bash"]
+# Cache Deno dependencies for update script
+RUN deno cache --reload --lock=deno.lock update.ts 
+
+# ---------- Git safe directory ----------
+RUN git config --global --add safe.directory /bartoc-vocabularies
+
+# ---------- Entrypoint ----------
+CMD ["bash", "entrypoint.sh"]
