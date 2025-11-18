@@ -1,4 +1,3 @@
-
 #!/usr/bin/env -S deno run --allow-read --allow-run --allow-env --allow-sys --ext=ts
 
 // Import zx for shell scripting
