@@ -1,32 +1,42 @@
-notation,prefLabel
-Online,Online
-PDF,PDF
-SKOS,SKOS
-Printed,"Printed"
-XML,XML
-RDF,RDF
-Spreadsheet,"Spreadsheet (Excel, ODS...)"
-HTML,HTML
-CSV,CSV
-JSON,JSON
-JSON-LD,"JSON-LD"
-JSKOS,"JSKOS"
-MADS,MADS
-OWL,"OWL"
-Zthes,"ZThes"
-XTM,"Topic Map (XTM, CTM, GTM...)"
-DC,"Dublin Core"
-BS8723-5,BS8723-5
-VDEX,"VDEX"
-Microform,"Microform"
-TXT,"Raw Text (ASCII or Unicode)"
-Word,"Word Processor (MS Word, ODT...)"
-CD-ROM,"CD-ROM"
-XSD,"XML Schema (XSD)"
-OBO,"OBO"
-Floppy-Disc,"Floppy-Disc"
-MARC,"MARC Format (MARC21 or other)"
-Database,"Database Dump (MS-Access, MySQL-Dump...)"
-Geodata,"Geographical data (GeoJSON, KML...)"
-EPUB,"EPUB"
-ClaML,"ClaML"
+level,notation,prefLabel,scopeNote
+0,carrier,Carrier,Carrier / delivery medium
+1,physical,Physical,Physical carrier
+2,printed,Printed,
+2,microform,Microform,
+2,cd-rom,CD-ROM,
+2,floppy-disc,Floppy-Disc,
+1,online,Online,
+0,document,Document,Document format
+1,pdf,PDF,
+1,html,HTML,
+1,txt,TXT,Raw Text (ASCII or Unicode)
+1,word,Word,"Word Processor (MS Word, ODT...)"
+1,epub,EPUB,
+0,data,Data,Data / structured format
+1,tabular,Tabular,Tabular data
+2,csv,CSV,
+2,spreadsheet,Spreadsheet,"Spreadsheet (Excel, ODS...)"
+1,database,Database,"Database Dump (MS-Access, MySQL-Dump...)"
+1,geodata,Geodata,"Geographical data (GeoJSON, KML...)"
+1,xml,XML,
+2,xsd,XSD,XML Schema (XSD)
+2,mads,MADS,
+2,claml,ClaML,
+1,json,JSON,
+2,json-ld,JSON-LD,
+3,jskos,JSKOS,
+1,rdf,RDF,
+2,json-ld,JSON-LD,
+2,skos,SKOS,
+2,owl,OWL,
+2,dc,DC,
+2,turtle,Turtle,
+2,n-triples,N-Triples,
+2,trig ,TriG ,
+1,kos-specific,KOS-specific,KOS-specific exchange format
+2,zthes,Zthes,
+2,vdex,VDEX,
+2,xtm,XTM,"Topic Map (XTM, CTM, GTM...)"
+2,marc,MARC,MARC Format (MARC21 or other)
+2,bs8723-5,BS8723-6,
+2,obo,OBO,
