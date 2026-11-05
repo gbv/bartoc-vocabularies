@@ -1,5 +1,4 @@
 {"uri":"http://dewey.info/class/0/e23/","notation":["0"],"inScheme":[{"uri":"http://bartoc.org/en/node/241"}],"prefLabel":{"en":"Computer science, information & general works"},"topConceptOf":[{"uri":"http://bartoc.org/en/node/241"}]}
-{"uri":"http://dewey.info/class/00/e23/","notation":["00"],"inScheme":[{"uri":"http://bartoc.org/en/node/241"}],"prefLabel":{"en":"Computer science, information & general works"},"broader":[{"uri":"http://dewey.info/class/0/e23/","notation":["0"]}]}
 {"uri":"http://dewey.info/class/00/e23/","notation":["00"],"inScheme":[{"uri":"http://bartoc.org/en/node/241"}],"prefLabel":{"en":"Computer science, knowledge & systems"},"broader":[{"uri":"http://dewey.info/class/0/e23/","notation":["0"]}]}
 {"uri":"http://dewey.info/class/001/e23/","notation":["001"],"inScheme":[{"uri":"http://bartoc.org/en/node/241"}],"prefLabel":{"en":"Knowledge"},"broader":[{"uri":"http://dewey.info/class/00/e23/","notation":["00"]}]}
 {"uri":"http://dewey.info/class/002/e23/","notation":["002"],"inScheme":[{"uri":"http://bartoc.org/en/node/241"}],"prefLabel":{"en":"The book"},"broader":[{"uri":"http://dewey.info/class/00/e23/","notation":["00"]}]}
