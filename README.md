@@ -19,7 +19,7 @@ Update and import scripts require command line tools `bash`, `make`, `curl`, [jq
 
 Each vocabulary data is located in a subdirectory `$ID` (lowercase short name or acronym) with two JSKOS data files:
 
-* `$ID-scheme.json` with information about the vocabulary
+* `$ID-scheme.ndjson` with information about the vocabulary
 * `$ID-concepts.ndjson` with concepts of the vocabulary
 
 The concepts file can be updated with a `Makefile` from a CSV file or from an external source, depending in the vocabulary. Each directory further contains a brief `README.md` giving a title and links to sources and additional resources such as instructions how to update the data. To force re-generation of a concepts file, run:
@@ -31,3 +31,13 @@ The script `import.sh` takes a JSKOS-API endpoint URL such as `http://localhost:
 Environment variable `JWT` can optionally be set to provide a JWT Token for authentification for import.
 
 Existing schemes and concepts will be overwritten but no concepts will be deleted.
+
+## Branches and Docker images
+
+The `dev` branch contains development data and publishes `ghcr.io/gbv/bartoc-vocabularies:dev`. The `main` branch contains production data and publishes `ghcr.io/gbv/bartoc-vocabularies:main`.
+
+Docker images use the corresponding repository branch by default. Set `BARTOC_BRANCH` to select a different branch at runtime. Local image builds default to `main`; pass `--build-arg BARTOC_BRANCH=dev` to change the image default.
+
+GitHub Actions validates every tracked NDJSON file before publishing an image. Run the same validation locally with:
+
+    npm run validate
