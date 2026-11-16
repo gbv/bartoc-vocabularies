@@ -11,7 +11,7 @@ level,notation,prefLabel,scopeNote
 1,subject-heading-scheme,Subject Heading Scheme,A system combining subject headings into predefined term strings. 
 1,categorization-schema,Categorization Schema,A system grouping terms into categories based on shared characteristics. 
 1,classification-schema,Classification Schema,A system organizing terms into classes using notations (e.g. numbers or codes). 
-1,taxonomy,Taxonomy,A system organizing terms in hierarchical relationships. 
+1,taxonomy,Taxonomy (dev test),A system organizing terms in hierarchical relationships. 
 0,networks,Networks,"A complex, highly structured network in which nodes represent concepts and edges define relationships, varying in their level of formalization and types of relationships. "
 1,thesaurus,Thesaurus,"A system of terms with hierarchical, associative, and synonymous relationships. "
 1,semantic-network,Semantic Network,A system connecting concepts as nodes through relationships. 
