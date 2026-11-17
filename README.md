@@ -32,12 +32,14 @@ Environment variable `JWT` can optionally be set to provide a JWT Token for auth
 
 Existing schemes and concepts will be overwritten but no concepts will be deleted.
 
-## Branches and Docker images
+## Development and production workflow
 
-The `dev` branch contains development data and publishes `ghcr.io/gbv/bartoc-vocabularies:dev`. The `main` branch contains production data and publishes `ghcr.io/gbv/bartoc-vocabularies:main`.
+Vocabulary changes are first pushed to the `dev` branch. After successful validation, GitHub Actions publishes `ghcr.io/gbv/bartoc-vocabularies:dev`. Deployment automation configured in [coli-conc-server](https://github.com/gbv/coli-conc-server) then imports the changed vocabularies into [dev.bartoc.org](https://dev.bartoc.org/).
 
-Docker images use the corresponding repository branch by default. Set `BARTOC_BRANCH` to select a different branch at runtime. Local image builds default to `main`; pass `--build-arg BARTOC_BRANCH=dev` to change the image default.
+Review and test the changes on dev.bartoc.org. Once they are ready for production, open a pull request from `dev` to `main`.
 
-GitHub Actions validates every tracked NDJSON file before publishing an image. Run the same validation locally with:
+After the pull request is merged, GitHub Actions publishes `ghcr.io/gbv/bartoc-vocabularies:main`, and the server-side automation imports the changed vocabularies into [bartoc.org](https://bartoc.org/).
+
+Run the same validation locally before pushing:
 
     npm run validate
