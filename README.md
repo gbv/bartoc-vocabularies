@@ -34,12 +34,16 @@ Existing schemes and concepts will be overwritten but no concepts will be delete
 
 ## Development and production workflow
 
-Vocabulary changes are first pushed to the `dev` branch. After successful validation, GitHub Actions publishes `ghcr.io/gbv/bartoc-vocabularies:dev`. Deployment automation configured in [coli-conc-server](https://github.com/gbv/coli-conc-server) then imports the changed vocabularies into [dev.bartoc.org](https://dev.bartoc.org/).
-
-Review and test the changes on dev.bartoc.org. Once they are ready for production, open a pull request from `dev` to `main`.
-
-After the pull request is merged, GitHub Actions publishes `ghcr.io/gbv/bartoc-vocabularies:main`, and the server-side automation imports the changed vocabularies into [bartoc.org](https://bartoc.org/).
-
-Run the same validation locally before pushing:
+Validate vocabulary changes locally before pushing:
 
     npm run validate
+
+Vocabulary changes are first pushed to the `dev` branch. After successful validation, GitHub Actions publishes `ghcr.io/gbv/bartoc-vocabularies:dev`. Deployment automation configured in [coli-conc-server](https://github.com/gbv/coli-conc-server) then imports the changed vocabularies into [dev.bartoc.org](https://dev.bartoc.org/).
+
+Review and test the changes on dev.bartoc.org. Once they are ready for production, publish the local `dev` branch to `main` with:
+
+    npm run release
+
+This command runs the validation again and atomically pushes the local `dev` branch to both `dev` and `main` on GitHub. The push fails if `main` cannot be fast-forwarded to `dev`.
+
+After the push, GitHub Actions publishes `ghcr.io/gbv/bartoc-vocabularies:main`, and the server-side automation imports the changed vocabularies into [bartoc.org](https://bartoc.org/).
