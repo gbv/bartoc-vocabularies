@@ -1,6 +1,9 @@
 FROM ubuntu:22.04
 WORKDIR /usr/src/app
 
+ARG BARTOC_BRANCH=main
+ENV BARTOC_BRANCH=${BARTOC_BRANCH}
+
 # ---------- Base tools ----------
 RUN apt update && apt install -y \
   curl \

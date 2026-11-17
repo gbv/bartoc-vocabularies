@@ -5,13 +5,15 @@ import { $, cd } from "npm:zx@7"
 
 // Define base path
 const basePath = "/bartoc-vocabularies"
-console.log("##########", new Date(), "Updating bartoc-vocabularies...", "##########")
+const branch = Deno.env.get("BARTOC_BRANCH") || "main"
+console.log("##########", new Date(), `Updating bartoc-vocabularies from origin/${branch}...`, "##########")
 
 // Change to base path
 await cd(basePath)
 
 // Discover any changes from upstream
-const updatedFiles = (await $`git fetch --quiet && git diff --name-only @ @{u}`.quiet())
+await $`git fetch --quiet origin ${branch}`
+const updatedFiles = (await $`git diff --name-only HEAD FETCH_HEAD`.quiet())
   .stdout.split("\n")
   .filter(Boolean)
 
@@ -21,12 +23,8 @@ if (updatedFiles.length === 0) {
   Deno.exit(0)
 }
 
-// List updated files
-console.log("Resetting local repo to origin/main...")
-// Reset local repo to match origin/main
-await $`git fetch`
-await $`git reset --hard origin/main`
+console.log(`Resetting local repo to origin/${branch}...`)
+// Reset local repo to match the configured remote branch
+await $`git reset --hard FETCH_HEAD`
 console.log()
-
-Deno.exit(0)
 

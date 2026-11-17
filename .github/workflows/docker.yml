@@ -1,13 +1,12 @@
 name: Build and publish Docker image
-# Only run when Docker-related files are changed
+# Documentation-only changes do not require a new image
 on:
   push:
     branches:
+      - dev
       - main
     paths-ignore:
-      - '.github/**'
       - '**.md'
-      - '.*'
       - LICENSE
   
   workflow_dispatch: {} # manual “Run workflow” button
@@ -24,7 +23,19 @@ jobs:
       # 1. Checkout Repository
       # --------------------------------
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate NDJSON
+        run: npm run validate
       
       
       # --------------------------------
@@ -47,7 +58,7 @@ jobs:
       # 3. Login to GitHub Container Registry
       # --------------------------------
       - name: Login to GitHub Container Registry
-        uses: docker/login-action@v2
+        uses: docker/login-action@v3
         with:
           registry: ${{ env.REGISTRY }}
           username: ${{ github.actor }}
@@ -63,5 +74,7 @@ jobs:
           file: .docker/Dockerfile
           pull: true # avoid builds from old images
           push: true
+          build-args: |
+            BARTOC_BRANCH=${{ github.ref_name }}
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}

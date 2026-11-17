@@ -2,7 +2,10 @@
   "type": "module",
   "scripts": {
     "jskos-convert": "cd $INIT_CWD; jskos-convert",
-    "jskos-validate": "cd $INIT_CWD; jskos-validate"
+    "jskos-validate": "cd $INIT_CWD; jskos-validate",
+    "validate": "npm run validate:schemes && npm run validate:concepts",
+    "validate:schemes": "jskos-validate -v schemes $(git ls-files '*-scheme.ndjson')",
+    "validate:concepts": "jskos-validate -v concepts $(git ls-files '*.ndjson' ':!:*-scheme.ndjson')"
   },
   "dependencies": {
     "jskos-cli": "^0.7.3",

@@ -19,7 +19,7 @@ Update and import scripts require command line tools `bash`, `make`, `curl`, [jq
 
 Each vocabulary data is located in a subdirectory `$ID` (lowercase short name or acronym) with two JSKOS data files:
 
-* `$ID-scheme.json` with information about the vocabulary
+* `$ID-scheme.ndjson` with information about the vocabulary
 * `$ID-concepts.ndjson` with concepts of the vocabulary
 
 The concepts file can be updated with a `Makefile` from a CSV file or from an external source, depending in the vocabulary. Each directory further contains a brief `README.md` giving a title and links to sources and additional resources such as instructions how to update the data. To force re-generation of a concepts file, run:
@@ -31,3 +31,15 @@ The script `import.sh` takes a JSKOS-API endpoint URL such as `http://localhost:
 Environment variable `JWT` can optionally be set to provide a JWT Token for authentification for import.
 
 Existing schemes and concepts will be overwritten but no concepts will be deleted.
+
+## Development and production workflow
+
+Vocabulary changes are first pushed to the `dev` branch. After successful validation, GitHub Actions publishes `ghcr.io/gbv/bartoc-vocabularies:dev`. Deployment automation configured in [coli-conc-server](https://github.com/gbv/coli-conc-server) then imports the changed vocabularies into [dev.bartoc.org](https://dev.bartoc.org/).
+
+Review and test the changes on dev.bartoc.org. Once they are ready for production, open a pull request from `dev` to `main`.
+
+After the pull request is merged, GitHub Actions publishes `ghcr.io/gbv/bartoc-vocabularies:main`, and the server-side automation imports the changed vocabularies into [bartoc.org](https://bartoc.org/).
+
+Run the same validation locally before pushing:
+
+    npm run validate
