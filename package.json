@@ -9,7 +9,7 @@
     "release": "npm run validate && git push --atomic origin dev dev:main"
   },
   "dependencies": {
-    "jskos-cli": "^0.7.3",
+    "jskos-cli": "^0.9.1",
     "jskos-validate": "^1.1.0"
   }
 }
