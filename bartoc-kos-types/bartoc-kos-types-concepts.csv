@@ -4,7 +4,7 @@ level,notation,prefLabel,scopeNote
 1,list,List,A flat collection of terms without hierarchy or relationships. 
 1,glossary,Glossary,An alphabetically ordered list of specialized terms with short definitions. 
 1,synonym-ring,Synonym Ring,A collection of terms with the same or similar meaning under a preferred term. 
-0,directories,Directories,"A directory of entities or resources with metadata, unique identifiers, alternative names, and additional attributes. "
+0,directory,Directory,"A directory of entities or resources with metadata, unique identifiers, alternative names, and additional attributes. "
 1,gazetteer,Gazetteer,A directory of geographic places with unique identifiers and metadata. 
 1,name-authority-list,Name Authority List,"A directory of entities (e.g. persons, places, organizations) with standardized names and unique identifiers. "
 0,hierarchy,Hierarchy,"A hierarchical or flat structure that organizes concepts into categories or classes, supporting search and navigation through flexible keywords or standardized taxonomies. "
